@@ -1658,8 +1658,8 @@ fn test_fq_sqrt() {
 
 #[test]
 fn test_fq_num_bits() {
-    assert_eq!(FqParameters::MODULUS_BITS, 381);
-    assert_eq!(FqParameters::CAPACITY, 380);
+    assert_eq!(FqParameters::MODULUS_BITS, 382);
+    assert_eq!(FqParameters::CAPACITY, 381);
 }
 
 // #[test]
